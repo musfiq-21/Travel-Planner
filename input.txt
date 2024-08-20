@@ -1,0 +1,3 @@
+Dhaka Rajshahi 1 300 900 4
+Rajshahi Bogura 1 350 700 3.5
+Dhaka Chittagong 1 400 1200 5
